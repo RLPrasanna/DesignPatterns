@@ -1,0 +1,1 @@
+﻿Prototype.Client.Main(args);
