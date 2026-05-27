@@ -1,0 +1,1 @@
+﻿Adapter.PhonePe.Main(args);
