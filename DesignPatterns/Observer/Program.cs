@@ -1,0 +1,1 @@
+﻿Observer.Client.Main(args);
